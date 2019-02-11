@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "anywebjs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/perfect711/anywebjs.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
